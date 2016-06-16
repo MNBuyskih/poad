@@ -926,7 +926,7 @@ BOOTSTRAP EXTEND
 html.scroll,
 html.fixed {
 	/* UNDO original bootrap LG helper classes*/
-	/* Helper classes for XL */;
+	/* Helper classes for XL ;*/
 }
 
 @media (min-width: 1600px) {
@@ -4476,7 +4476,7 @@ html.dark .inner-toolbar > ul > li {
 body {
 	/* Button Basic */
 	/* Buttons - Social */
-	/* Buttons - States */;
+	/* Buttons - States */
 }
 
 body .btn:focus,
@@ -5487,7 +5487,7 @@ html.header-dark .userbox .dropdown-menu a {
 	/* WHY?
 	+ .panel {
 		margin-top: 35px;
-	}*/;
+	}*/
 }
 
 .panel-heading {
@@ -12225,7 +12225,7 @@ html.dark {
 	/* Simple Post List */
 	/* Simple User List */
 	/* Simple Bullet List */
-	/* Simple Compose Box */;
+	/* Simple Compose Box */
 }
 
 html.dark .widget-summary .summary .title,
@@ -13703,7 +13703,7 @@ html.dark .wizard-progress .wizard-steps {
 	font-size: 0;
 	text-align: justify;
 	-ms-text-justify: distribute-all-lines;
-	/* IE8+ */;
+	/* IE8+ */
 }
 
 html .wizard-progress .wizard-steps:after,
